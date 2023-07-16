@@ -2,6 +2,8 @@
 
 A weather app that can search for and present the current weather of a city.
 
+Tools: Javascript, Node.js, Express.js, HTML, CSS, 
+
 nodemon app.js
 localhost:3000
 
