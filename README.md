@@ -4,6 +4,7 @@ A weather app that can search for and present the current weather of a city.
 
 Tools: Javascript, Node.js, Express.js, HTML, CSS, 
 
+On Linux/macOS terminal: export API_KEY=your_api_key_here
 nodemon app.js
 localhost:3000
 
